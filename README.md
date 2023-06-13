@@ -1,2 +1,2 @@
 # Spring_Lab
-Spring, Spring Boot 연구 및 기능 학습
+Spring, Spring Boot JPA 학습 및 연습
